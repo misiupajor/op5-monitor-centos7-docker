@@ -36,3 +36,10 @@ Now you can reach OP5 Monitor on:
 https://`<docker server>`:443
 
 And over SSH on port ```22222```
+
+
+## Contributors
+
+Thanks goes to these wonderful people:
+
+* Oskar Rittsé  ([@OP5](https://www.op5.com))
