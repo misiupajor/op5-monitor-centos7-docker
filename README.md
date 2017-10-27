@@ -42,4 +42,4 @@ And over SSH on port ```22222```
 
 Thanks goes to these wonderful people:
 
-* Oskar Ritts√l ([@OP5](https://www.op5.com))
+* Oskar Rittsel ([@OP5](https://www.op5.com))
