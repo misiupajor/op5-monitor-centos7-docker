@@ -43,3 +43,8 @@ And over SSH on port ```22222```
 Thanks goes to these wonderful people:
 
 * Oskar Rittsel ([@OP5](https://www.op5.com))
+
+## Author
+**Misiu Pajor**
+
+* [github/misiupajor](https://github.com/misiupajor)
