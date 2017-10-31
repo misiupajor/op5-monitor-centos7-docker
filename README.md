@@ -35,8 +35,9 @@ Now you can reach OP5 Monitor on:
 
 https://`<docker server>`:443
 
-And over SSH on port ```22222```
-
+And over SSH on port ```22222``` with credentials:
+username: root
+password: monitor
 
 ## Contributors
 
