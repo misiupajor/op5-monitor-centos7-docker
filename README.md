@@ -8,7 +8,7 @@ This repository contains the OP5 Monitor software, in docker.
 
 ## Features
 
- * Latest version of OP5 monitor to date (currently v7.3.17) on _CentOS 7.4_
+ * Latest version of OP5 monitor to date (currently v7.3.18) on _CentOS 7.4_
  * Pre-bundled with a trial license
 
 ## Install

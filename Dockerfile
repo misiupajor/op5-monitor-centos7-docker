@@ -1,7 +1,7 @@
 FROM centos/systemd
 MAINTAINER "Misiu Pajor" <misiu.pajor@op5.com>
 
-ARG OP5_MONITOR_SOFTWARE_URL=https://s3-eu-west-1.amazonaws.com/op5-filebase/Downloads/op5_monitor_archive/op5-monitor-7.3.17-20171013.tar.gz
+ARG OP5_MONITOR_SOFTWARE_URL=https://d2ubxhm80y3bwr.cloudfront.net/Downloads/op5_monitor_archive/op5-monitor-7.3.18-20171114.tar.gz
 ENV OP5_MONITOR_SOFTWARE_URL=$OP5_MONITOR_SOFTWARE_URL
 
 RUN yum -y install wget which openssh-server net-tools
